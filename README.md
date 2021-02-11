@@ -1,3 +1,3 @@
 # DataScience
 
-Meus exercícios para aprendizado de DS.
+Meus primeiros exercícios para aprendizado de DS com pandas.
